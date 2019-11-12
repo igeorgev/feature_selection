@@ -1,1 +1,10 @@
+# Nilsson, R., Pe˜na, J.M., Bj¨orkegren, J., Tegn´er, J.: Consistent feature selection for pattern recognition in polynomial time.
+# The Journal of Machine Learning Research 8, 612 (2007) ; http://compmed.se/files/6914/2107/3475/pub_2007_5.pdf
+
+Feature selection (FS) is the process of reducing input data dimension. By reducing dimensionality,
+FS attempts to solve two important problems: facilitate learning (inducing) accurate classifiers, and
+discover the most ”interesting” features, which may provide for better understanding of the problem
+itself (Guyon and Elisseeff, 2003).
+
+
 
